@@ -1,0 +1,12 @@
+pandas
+numpy
+unidecode
+nltk
+wordcloud
+scikit-learn
+python-dotenv
+streamlit
+langchain-community
+replicate
+matplotlib
+seaborn
